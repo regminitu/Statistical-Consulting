@@ -6,6 +6,9 @@ This repo contains the following:
 - Report
   - This includes detailed version of one of the client project written in journal format.
   
+- Presentation
+  - This includes slides highlighting the contents of Report.  
+  
 - Final analysis
   - This includes sas code for the report above. 
 
